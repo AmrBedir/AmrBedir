@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/amrbedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amrbedir" height="30" width="40" /></a>
 <a href="https://dev.to/amrbedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amrbedir" height="30" width="40" /></a>
-<a href="https://twitter.com/amr__b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amr__b" height="30" width="40" /></a>
+<a href="https://twitter.com/AMRBEDIR__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AMRBEDIR__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amrbedir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrbedir" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15390243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15390243" height="30" width="40" /></a>
 <a href="https://fb.com/amrbedir.eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amrbedir.eg" height="30" width="40" /></a>
