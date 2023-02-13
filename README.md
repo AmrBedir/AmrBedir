@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Backend Track.**<br><br>🎓 I’m currently Studying **Computer Science at Mansoura University.**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com**<br><br>💬 Ask me about **Backend RoadMap, CS Entry**<br><br>📫 How to reach me? **amrbedir@yahoo.com**<br><br>⚡ Fun fact **Cuddling with the person you love can relieve physical pain.**
+🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently Studying **Computer Science at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com**<br><br>💬 Ask me about **Backend RoadMap, [CS Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**<br><br>⚡ Fun fact **Cuddling with the person you love can relieve physical pain.**
 
 
 ## 🌐 Socials:
@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmrBedir&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrBedir&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=AmrBedir&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
