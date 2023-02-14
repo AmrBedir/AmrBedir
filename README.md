@@ -1,6 +1,17 @@
 # 💫 About Me:
 🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently Studying **Computer Science at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com.**<br><br>💬 Ask me about **Back-end RoadMap, [CS Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**<br><br>⚡ Fun fact **Cuddling with the person you love can relieve physical pain.**
 
+## 🎓 Education
+* **Bachelor’s Degree – Faculty of Computer & Information Sciences - Mansoura University** (2022 - 2026)
+
+
+  Repositories:
+  * Level 1:
+    * [Discrete Math Project](https://github.com/AmrBedir/DiscreteMathProject)
+
+* **Thanawya Amma _(High School)_** Scientific Section (2022)
+  
+  Graduated by grade 88.29%
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmrBedir.eg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrbedir.eg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrbedir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amrbedir.eg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AMRBEDIR__) 
