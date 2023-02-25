@@ -8,6 +8,8 @@
   Repositories:
   * Level 1:
     * [Discrete Mathematics Project, First Year - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
+    * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
+
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
   
