@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Science at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com.**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**
+🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com.**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**
 
 ## 🎓 Academic Education
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
@@ -8,6 +8,7 @@
   Repositories:
   * Level 1:
     * [Discrete Mathematics Project, First Year - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
+    * [Object Oriented Programing Tasks, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/OOP-Tasks)
     * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
 
 
