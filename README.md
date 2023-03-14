@@ -7,7 +7,7 @@
 
   Repositories:
   * Level 1:
-    * [Discrete Mathematics Project, First Year - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
+    * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
     * [Object Oriented Programing Tasks, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/OOP-Tasks)
     * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
 
