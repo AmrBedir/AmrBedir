@@ -32,3 +32,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AmrBedir&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## ⭐ Highlighted Repositories
+* [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe)
+* [CAT Reloaded Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
