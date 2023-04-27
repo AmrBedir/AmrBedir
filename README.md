@@ -16,7 +16,7 @@
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
   
-  Graduated by Grade: 88.29%
+  *Graduated by Grade: 88.29%*
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AmrBedir.eg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amrbedir.eg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrbedir) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@amrbedir.eg) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AMRBEDIR__) 
@@ -33,6 +33,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## ⭐ Highlighted Repositories
+## ⭐ Highlighted Repositories:
 * [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe)
 * [CAT Reloaded Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
