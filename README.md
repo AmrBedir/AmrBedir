@@ -9,7 +9,8 @@
   * Level 1:
     * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
     * [Object Oriented Programing Tasks, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/OOP-Tasks)
-    * [Probability and Statistics Assignment, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Assignment)
+    * [Probability & Statistics Assignment, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Assignment)
+    * [Probability & Statistics Project, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Project)
     * [Andrea Café IT Project, First Year 2nd Semester - Dept. of Information Technology.](https://github.com/AmrBedir/andrea-cafe)
     * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
 
