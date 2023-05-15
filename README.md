@@ -38,4 +38,4 @@
 * [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe)
 * [CAT Reloaded Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](./assets/github-contribution-grid-snake.svg)
