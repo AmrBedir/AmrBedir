@@ -1,18 +1,18 @@
 ## 💫 About Me:
-🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com.**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**, **DM**<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**
+🔭 I’m currently working on **Awesome Project!**, just finished [Andrea's Café - IT Project](https://github.com/AmrBedir/andrea-cafe).<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com.**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **amrbedir@yahoo.com**, **DM**.<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**
 
 ## 🎓 Academic Education:
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
 
 
   Repositories:
-  * Level 1:
+  * 1ˢᵗ Level:
     * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
     * [Object Oriented Programing Tasks, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/OOP-Tasks)
     * [Probability & Statistics Assignment, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Assignment)
     * [Probability & Statistics Project, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Project)
     * [Andrea Café IT Project, First Year 2nd Semester - Dept. of Information Technology.](https://github.com/AmrBedir/andrea-cafe)
-    * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
+    * [CAT Reloaded Tasks & Study Notes, Entry Level Guide.](https://github.com/AmrBedir/CATReloaded-Task)
 
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
