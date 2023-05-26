@@ -36,6 +36,6 @@
 
 ## ⭐ Highlighted Repositories:
 * [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe)
-* [CAT Reloaded Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
+* [CAT Reloaded -Media & Back-end- Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
