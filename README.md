@@ -5,7 +5,7 @@
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
 
 
-  Repositories:
+  :octocat: Repositories:
   * 1ˢᵗ Level:
     * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science](https://github.com/AmrBedir/DiscreteMathProject).
     * [Object Oriented Programming Tasks, First Year 2nd Semester - Dept. of Computer Science](https://github.com/AmrBedir/OOP-Tasks).
