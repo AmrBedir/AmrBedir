@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on **Awesome Project!**, just finished [**Andrea's Café - IT Project**](https://github.com/AmrBedir/andrea-cafe).<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**<br><br>💡 My Blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
+🔭 I’m currently working on **Awesome Project!**, just finished [**Andrea's Café - IT Project**](https://github.com/AmrBedir/andrea-cafe).<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir-en.blogspot.com, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"Cuddling with the person you love can relieve physical pain".**<br><br>💡 My blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
 
 ## 🎓 Academic Education:
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
@@ -7,12 +7,12 @@
 
   Repositories:
   * 1ˢᵗ Level:
-    * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science.](https://github.com/AmrBedir/DiscreteMathProject)
-    * [Object Oriented Programming Tasks, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/OOP-Tasks)
-    * [Probability & Statistics Assignment, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Assignment)
-    * [Probability & Statistics Project, First Year 2nd Semester - Dept. of Computer Science.](https://github.com/AmrBedir/Probability_Project)
-    * [Andrea Café IT Project, First Year 2nd Semester - Dept. of Information Technology.](https://github.com/AmrBedir/andrea-cafe)
-    * [CAT Reloaded Tasks & Study Notes, Entry Level Guide.,](https://github.com/AmrBedir/CATReloaded-Task) ***CAT, Student Activity.***
+    * [Discrete Mathematics Project, First Year 1st Semester - Dept. of Computer Science](https://github.com/AmrBedir/DiscreteMathProject).
+    * [Object Oriented Programming Tasks, First Year 2nd Semester - Dept. of Computer Science](https://github.com/AmrBedir/OOP-Tasks).
+    * [Probability & Statistics Assignment, First Year 2nd Semester - Dept. of Computer Science](https://github.com/AmrBedir/Probability_Assignment).
+    * [Probability & Statistics Project, First Year 2nd Semester - Dept. of Computer Science](https://github.com/AmrBedir/Probability_Project).
+    * [Andrea Café IT Project, First Year 2nd Semester - Dept. of Information Technology](https://github.com/AmrBedir/andrea-cafe).
+    * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)., ***CAT, Student Activity.***
 
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
@@ -35,7 +35,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ⭐ Highlighted Repositories:
-* [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe)
-* [CAT Reloaded -Media & Back-end- Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)
+* [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe).
+* [CAT Reloaded -Media & Back-end- Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task).
 
 ![Snake animation](./assets/github-contribution-grid-snake.svg)
