@@ -35,6 +35,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## ⭐ Highlighted Repositories:
+* [FCIS MU Repositories](https://github.com/stars/AmrBedir/lists/fcis-mu).
 * [Andrea's Café Website - IT Project](https://github.com/AmrBedir/andrea-cafe).
 * [CAT Reloaded -Media & Back-end- Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task).
 
