@@ -13,6 +13,9 @@
     * [Probability & Statistics Project, First Year 2nd Semester - Dept. of Computer Science](https://github.com/AmrBedir/Probability_Project).
     * [Andrea Café IT Project, First Year 2nd Semester - Dept. of Information Technology](https://github.com/AmrBedir/andrea-cafe).
     * [CAT Reloaded Tasks & Study Notes, Entry Level Guide](https://github.com/AmrBedir/CATReloaded-Task)., ***CAT, Student Activity.***
+  * 2ⁿᵈ Level:
+    * [Algebra Linear System Solver Task, Second Year 1st Semester - UNI211T](https://github.com/AmrBedir/LinearSystemSolver).
+   
 
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
