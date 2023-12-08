@@ -22,6 +22,11 @@
   
   *Graduated by Grade: **88.29%***
 
+## ⚡ Student Activities:
+
+* **Back-end & Media @ _[CAT Reloaded Team](https://web.facebook.com/CATReloaded)_ - Mansoura University**
+
+
 ## 🌐 Socials:
 * *[**Amr Bedir Bio Links**](https://bio.link/amrbedir)*
 
