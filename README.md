@@ -25,6 +25,7 @@
 ## ⚡ Student Activities:
 
 * **Back-end & Media @ _[CAT Reloaded Team](https://web.facebook.com/CATReloaded)_ - Mansoura University**
+* **Marketing @ _[Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council)_ - Mansoura University**
 
 
 ## 🌐 Socials:
