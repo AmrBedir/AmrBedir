@@ -27,7 +27,7 @@
 * **Back-end & Media @ _[CAT Reloaded Team](https://www.linkedin.com/company/13179685)_ - Mansoura University** (Nov 2022 - Present)
 * **Front-end & Marketing @ _[CIS Team MU](https://www.linkedin.com/company/26569589)_ - Mansoura University** (Jan 2024 - Present)
 * **Marketing & Tech @ _[Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council)_ - Mansoura University** (Dec 2023 - Present)
-
+* **Head of Full-Stack Circle @ _[ENTER Team](https://www.linkedin.com/in/enterteam03)_ - Mansoura University** (Aug 2024 - Present)
 
 ## ⚡ Work:
 
