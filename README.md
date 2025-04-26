@@ -16,6 +16,9 @@
   * 2ⁿᵈ Level:
     * [Algebra Linear System Solver App, Second Year 1st Semester - UNI211T](https://github.com/AmrBedir/LinearSystemSolver).
    
+  * 3ʳᵈ Level:
+    * [Brain Tumor Classification with Random Forest & Supervised Learning, Third Year 2nd Semester](https://github.com/AmrBedir/Brain-Tumor-Classification-Supervised-Learning).
+   
 
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
