@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences - (IT Major) at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://en.amrbedir.me, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"*Cuddling with the person you love can relieve physical pain*".**<br><br>💭 Favourite Quote  **"*Failure is a bruise, not a tattoo*".**<br><br>💡 My blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
+🔭 I’m currently working on **Awesome Project!**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences - (IT Major) at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir.me, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"*Cuddling with the person you love can relieve physical pain*".**<br><br>💭 Favourite Quote  **"*Failure is a bruise, not a tattoo*".**<br><br>💡 My blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
 
 ## 🎓 Academic Education:
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
@@ -20,6 +20,7 @@
     * [Brain Tumor Classification with Random Forest & Supervised Learning, Third Year 2nd Semester](https://github.com/AmrBedir/Brain-Tumor-Classification-Supervised-Learning).
    
   * 4ᵗʰ Level:
+    * :octocat:[ SignConnect - Graduation Project](https://github.com/SignConnect-EG).
     * [NeuroDetect | Brain Tumor Classification & Analysis System | Random Forest Algorithm, Final Year 1st Semester](https://github.com/AmrBedir/NeuroDetect_RandomForest).
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
