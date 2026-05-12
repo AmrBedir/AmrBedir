@@ -22,6 +22,7 @@
   * 4ᵗʰ Level:
     * :octocat:[ SignConnect - Graduation Project](https://github.com/SignConnect-EG).
     * [NeuroDetect | Brain Tumor Classification & Analysis System | Random Forest Algorithm, Final Year 1st Semester](https://github.com/AmrBedir/NeuroDetect_RandomForest).
+    * [F-10 | smart wireless surveillance robot designed for warehouse & industrial monitoring, Final Year 2nd Semester](https://github.com/xkarimabdelaziz/F-10-Surveillance-Robot).
 
 * **Thanawya Amma _(High School)_ - Scientific Section** (2019 - 2022)
   
