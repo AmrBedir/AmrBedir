@@ -29,9 +29,9 @@
 
 ## ⚡ Student Activities:
 
-* **Back-end & Media (Marketing Vice) @ _[CAT Reloaded Team](https://www.linkedin.com/company/13179685)_ - Mansoura University** (Nov 2022 - Present)
-* **Front-end & Marketing @ _[CIS Team MU](https://www.linkedin.com/company/26569589)_ - Mansoura University** (Jan 2024 - Present)
-* **Marketing & Tech @ _[Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council)_ - Mansoura University** (Dec 2023 - Present)
+* **Back-end & Media (Marketing Vice) @ _[CAT Reloaded Team](https://www.linkedin.com/company/13179685)_ - Mansoura University** (Nov 2022 - May 2026)
+* **Front-end & Marketing @ _[CIS Team MU](https://www.linkedin.com/company/26569589)_ - Mansoura University** (Jan 2024 - December 2025)
+* **Marketing & Tech @ _[Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council)_ - Mansoura University** (Dec 2023 - May 2026)
 * **Head of Full-Stack Circle @ _[ENTER Team](https://www.linkedin.com/in/enterteam03)_ - Mansoura University** (Aug 2024 - Present)
 
 ## ⚡ Work:
