@@ -1,9 +1,10 @@
 ## 💫 About Me:
-🔭 I’m currently working on **[SignConnect](https://github.com/SignConnect-EG).**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 I’m currently studying **Computer Sciences - (IT Major) at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir.me, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"*Cuddling with the person you love can relieve physical pain*".**<br><br>💭 Favourite Quote  **"*Failure is a bruise, not a tattoo*".**<br><br>💡 My blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
+🔭 I’m currently working on **[SignConnect](https://github.com/SignConnect-EG).**<br><br>🌱 I’m currently learning **Software Development, Back-end Track.**<br><br>🎓 B.Sc. in **Computer Sciences - (IT Major) at [Mansoura University](https://www.mans.edu.eg/en/).**<br><br>👨‍💻 Some of my projects are available at **https://amrbedir.me, [LinkedIn](https://www.linkedin.com/in/amrbedir/).**<br><br>💬 Ask me about **Back-end RoadMap, [Computer Science Entry Guide](https://github.com/AmrBedir/CS-Degree-Courses).**<br><br>📫 How to reach me? **admin@amrbedir.me**, **DM**.<br><br>⚡ Fun fact **"*Cuddling with the person you love can relieve physical pain*".**<br><br>💭 Favourite Quote  **"*Failure is a bruise, not a tattoo*".**<br><br>💡 My blog **[blog.amrbedir.me](https://blog.amrbedir.me/).**<br>
 
 ## 🎓 Academic Education:
 * **Bachelor’s Degree – [Faculty of Computer & Information Sciences](https://csifac.mans.edu.eg/index.php/en/) - Mansoura University** (2022 - 2026)
 
+  *Graduated by Grade: **85.15%***
 
   Repositories:
   * 1ˢᵗ Level:
@@ -33,12 +34,12 @@
 * **Back-end & Media (Marketing Vice) @ _[CAT Reloaded Team](https://www.linkedin.com/company/13179685)_ - Mansoura University** (Nov 2022 - May 2026)
 * **Front-end & Marketing @ _[CIS Team MU](https://www.linkedin.com/company/26569589)_ - Mansoura University** (Jan 2024 - December 2025)
 * **Marketing & Tech @ _[Youth Entrepreneurship Council](https://www.linkedin.com/company/youth-entrep-council)_ - Mansoura University** (Dec 2023 - May 2026)
-* **Head of Full-Stack Circle @ _[ENTER Team](https://www.linkedin.com/in/enterteam03)_ - Mansoura University** (Aug 2024 - Present)
+* **Head of Full-Stack Circle @ _[ENTER Team](https://www.linkedin.com/in/enterteam03)_ - Mansoura University** (Aug 2024 - Aug 2026)
 
 ## ⚡ Work:
 
-* **WordPress Developer @ _[Acceler8](https://acceler8-ae.com)_ - 📍UAE, Remote** (Nov 2024 - Present)
-
+* **Team Lead, MD @ _[Nexora IT Agency](https://nexora-portal.com/)_ - 📍EG, Remote, Onsite** (May 2025 - Present)
+* **WordPress Developer @ _[Acceler8](https://acceler8-ae.com)_ - 📍UAE, Remote** (Nov 2024 - Aug 2026)
 
 ## 🌐 Socials:
 * *[**Amr Bedir Bio Links**](https://bio.amrbedir.me/)*
